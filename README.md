@@ -1,17 +1,63 @@
-<h1 align="center">Hi 👋, I'm Rehab</h1>
-<h3 align="center">A flutter developer from egypt</h3>
+# 👋 Hi, I’m Rehab Saad 
+### 🧑‍💻 Flutter Developer | Cross-platform Mobile Apps Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehabsaad075&label=Profile%20views&color=0e75b6&style=flat" alt="rehabsaad075" /> </p>
+I’m a Flutter developer with over 1 year of experience in building mobile applications.  
+Passionate about turning real-world ideas into elegant and functional apps.  
+I focus on clean architecture, efficient state management, and continuous learning.
 
-- 📫 How to reach me **saadrehab075@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rehabsaad075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehabsaad075" height="30" width="40" /></a>
-<a href="https://fb.com/rehabsaad075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehabsaad075" height="30" width="40" /></a>
-</p>
+## 📱 Projects
+
+### 🔧 [Bayti App](https://github.com/YourUsername/bayti_app)  
+A mobile app for booking home maintenance services like plumbing, electricity, and carpentry.
+
+### 📝 [Notes App](https://github.com/YourUsername/notes_app)  
+A simple app for offline note-taking using Hive for local storage.
+
+### ✅ [Task Manager App](https://github.com/YourUsername/task_manager_app)  
+Schedule your daily tasks with date-based organization and local persistence.
+
+### 🎬 [Movies App](https://github.com/YourUsername/movies_app)  
+Browse movies, series, and TV shows with full details and a personal favorites list.
+
+---
+
+## 📄 Resume
+
+📥 [Download My Resume (PDF)](https://drive.google.com/file/d/1K_bl8U3u8-SMGhxq-W541awT-4Dsh8F3/view?usp=drive_link)
+
+---
+
+## 🧰 Skills
+
+### 🛠 Technical:
+- **Languages:** Dart (OOP), Flutter
+- **Architecture & Patterns:** SOLID, MVVM, Bloc & Cubit
+- **Backend Services:** Firebase (Auth, Firestore, Storage), REST APIs
+- **Tools:** Git, GitHub, Postman, Hive, SQLite
+
+### 💡 Personal:
+- Problem Solving  
+- Time Management  
+- Communication  
+- Teamwork  
+- Flexibility  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: saadrehab075@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/rehabsaad075
+- 💻 GitHub: https://github.com/rehabsaad075
+
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
+---
+
+_Thank you for visiting my profile! Feel free to check out my projects or contact me for collaboration._
