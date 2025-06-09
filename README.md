@@ -9,16 +9,16 @@ I focus on clean architecture, efficient state management, and continuous learni
 
 ## 📱 Projects
 
-### 🔧 [Bayti App](https://github.com/YourUsername/bayti_app)  
+### 🔧 [Bayti App](https://github.com/rehabsaad075/bayit_app)  
 A mobile app for booking home maintenance services like plumbing, electricity, and carpentry.
 
-### 📝 [Notes App](https://github.com/YourUsername/notes_app)  
+### 📝 [Notes App](https://github.com/rehabsaad075/my_notes_app)  
 A simple app for offline note-taking using Hive for local storage.
 
-### ✅ [Task Manager App](https://github.com/YourUsername/task_manager_app)  
+### ✅ [Task Manager App](https://github.com/rehabsaad075/todo_app)  
 Schedule your daily tasks with date-based organization and local persistence.
 
-### 🎬 [Movies App](https://github.com/YourUsername/movies_app)  
+### 🎬 [Movies App](https://github.com/rehabsaad075/movie_app)  
 Browse movies, series, and TV shows with full details and a personal favorites list.
 
 ---
